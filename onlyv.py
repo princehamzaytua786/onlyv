@@ -1,3 +1,4 @@
 import os
 os.system('git pull')
-import onlyv
+os.system('clear')
+print('[ METHOD HAD TOO MUCH LOAD ]')
